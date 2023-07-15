@@ -99,5 +99,7 @@ Your contributions will be reviewed and appreciated, as they can enhance the pro
 
 ## References
 [Value Inc Seasons Dataset](https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv)
+
 [Value Inc. Logo](https://finch-groundhog-9245.squarespace.com/s/Value-Inc-Logo.png)
-[Value Inc. Sales Dashboard](https://public.tableau.com/app/profile/berlinda.anaman/viz/SalesforValueInc__16891748162360/Dashboard1)
+
+[Value Inc. Sales Dashboard](https://public.tableau.com/views/ValueInc_SalesDashboard_16894308550170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
