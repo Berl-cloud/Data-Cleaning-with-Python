@@ -81,4 +81,4 @@ Your contributions will be reviewed and appreciated, as they can enhance the pro
 [Blue Bank Logo](https://finch-groundhog-9245.squarespace.com/s/Blue-Bank-Logo.png)
 
 
-[Blue Bank Loan Analysis Dashboard]()
+[Blue Bank Loan Analysis Dashboard](https://public.tableau.com/views/BlueBankLoanDashboard_16908686164080/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
