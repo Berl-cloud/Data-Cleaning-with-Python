@@ -6,7 +6,7 @@ Welcome to the Data Cleaning Projects repository! This repository contains a col
 
 The repository is organized into subfolders, each representing an individual data cleaning project. Below is an overview of the projects available:
 
-### [Project 1: Loan Risk Analysis](./Loan Risk Analysis)
+### [Project 1: Loan Risk Analysis](#./Loan Risk Analysis)
 The Loan Risk Analysis project focuses on analyzing and visualizing loan data from Blue Bank, a US-based bank, that supplies loans to individuals. The goal is to provide a report for the loan department on borrowers who may have issues paying back the loan.
 
 ### [Project 2: Sales Data Analysis](./Sales Analysis)
